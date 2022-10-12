@@ -1,0 +1,41 @@
+{
+  "restaurant": [
+    {
+      "id": 1,
+      "name": "Pizza Hut",
+      "address": "Faisalabad",
+      "rating": "4",
+      "email": "pizzahut@test.com"
+    },
+    {
+      "id": 2,
+      "name": "Dominos",
+      "address": "Faisalabad",
+      "rating": "4.5",
+      "email": "dominos@test.com"
+    },
+    {
+      "id": 3,
+      "name": "Mcdonald",
+      "address": "Faisalabad",
+      "rating": "2",
+      "email": "mcdonald@test.com"
+    },
+    {
+      "id": 4,
+      "name": "13 Street",
+      "address": "Faisalabad",
+      "rating": "4.6",
+      "email": "13street@test.com"
+    },
+    {
+      "id": 5,
+      "name": "13 Street",
+      "address": "Faisalabad",
+      "rating": "4.6",
+      "email": "13street@test.com"
+    }
+  ]
+  
+}
+
