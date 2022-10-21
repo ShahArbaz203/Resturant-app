@@ -27,14 +27,8 @@
       "address": "Faisalabad",
       "rating": "4.6",
       "email": "13street@test.com"
-    },
-    {
-      "id": 5,
-      "name": "13 Street",
-      "address": "Faisalabad",
-      "rating": "4.6",
-      "email": "13street@test.com"
     }
+ 
   ]
   
 }
